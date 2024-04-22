@@ -1,0 +1,18 @@
+{
+  "name": "test-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "netlify-plugin-node-modules-lib": "github:kaelig/netlify-build-plugin-node-modules-lib"
+  },
+  "dependencies": {
+    "prismjs": "^1.29.0"
+  }
+}
