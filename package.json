@@ -9,10 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "netlify-build-plugin-node-modules-lib": "github:kaelig/netlify-build-plugin-node-modules-lib"
-  },
   "dependencies": {
+    "netlify-build-plugin-node-modules-lib": "github:kaelig/netlify-build-plugin-node-modules-lib",
     "prismjs": "^1.29.0"
   }
 }
